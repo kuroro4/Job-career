@@ -1,0 +1,38 @@
+h1{
+  margin-left: 30px;
+}
+
+h2{
+  margin-left: 30px;
+}
+
+h3{
+  margin-left: 30px;
+}
+
+#smallArea {
+  background-color: #bbedce;
+  width: 20%;
+  height: 100%;
+  padding-top: 4px;
+  border: 1px solid;
+  border-bottom: transparent;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  margin-bottom: -1px;
+  position: relative;
+  text-align: center;
+}
+
+#largeArea {
+  background-color: #fff;
+  width: 84%;
+  height: 100%;
+  padding: 10px;
+  border: 1px solid;
+}
+
+.disp-area {
+  margin-top: 20px;
+  margin-left: 20px;
+}
